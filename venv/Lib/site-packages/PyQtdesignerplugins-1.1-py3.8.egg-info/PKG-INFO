@@ -1,0 +1,16 @@
+Metadata-Version: 1.1
+Name: PyQtdesignerplugins
+Version: 1.1
+Summary: PyQtdesignerplugins installs Qt Designer plugins for PyQt4
+Home-page: http://winpython.sourceforge.net/
+Author: Pierre Raybaut
+Author-email: pierre.raybaut@gmail.com
+License: UNKNOWN
+Description: PyQtdesignerplugins installs Python Qt designer plugins (Matplotlib, guiqwt, ...) in PyQt4 directory.
+        
+        PyQtdesignerplugins is part of the WinPython distribution project.
+        
+Platform: UNKNOWN
+Classifier: Operating System :: Microsoft :: Windows
+Requires: PyQt4 (>4.3)
+Requires: guiqwt (>2.0)
